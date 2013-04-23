@@ -1,3 +1,11 @@
+# IDE Files #
+.classpath
+.settings/*
+.project
+.git/*
+
+# Object Files #
+target/*
 *.class
 
 # Package Files #
